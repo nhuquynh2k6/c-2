@@ -1,0 +1,13 @@
+D:\NNLT3-2\ktchanle2so\bin\Debug\ktchanle2so.exe.config
+D:\NNLT3-2\ktchanle2so\bin\Debug\ktchanle2so.exe
+D:\NNLT3-2\ktchanle2so\bin\Debug\ktchanle2so.pdb
+D:\NNLT3-2\ktchanle2so\obj\Debug\ktchanle2so.csprojResolveAssemblyReference.cache
+D:\NNLT3-2\ktchanle2so\obj\Debug\ktchanle2so.exe
+D:\NNLT3-2\ktchanle2so\obj\Debug\ktchanle2so.pdb
+C:\Users\Admin\Downloads\NNLT3-2\ktchanle2so\bin\Debug\ktchanle2so.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\ktchanle2so\bin\Debug\ktchanle2so.exe
+C:\Users\Admin\Downloads\NNLT3-2\ktchanle2so\bin\Debug\ktchanle2so.pdb
+C:\Users\Admin\Downloads\NNLT3-2\ktchanle2so\obj\Debug\ktchanle2so.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\ktchanle2so\obj\Debug\ktchanle2so.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\ktchanle2so\obj\Debug\ktchanle2so.exe
+C:\Users\Admin\Downloads\NNLT3-2\ktchanle2so\obj\Debug\ktchanle2so.pdb

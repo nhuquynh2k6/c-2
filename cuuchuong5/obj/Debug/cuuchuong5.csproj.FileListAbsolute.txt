@@ -1,0 +1,5 @@
+D:\NNLT3-2\cuuchuong5\bin\Debug\cuuchuong5.exe.config
+D:\NNLT3-2\cuuchuong5\bin\Debug\cuuchuong5.exe
+D:\NNLT3-2\cuuchuong5\bin\Debug\cuuchuong5.pdb
+D:\NNLT3-2\cuuchuong5\obj\Debug\cuuchuong5.exe
+D:\NNLT3-2\cuuchuong5\obj\Debug\cuuchuong5.pdb

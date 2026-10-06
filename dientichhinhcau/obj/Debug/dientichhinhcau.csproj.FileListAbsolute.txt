@@ -1,0 +1,13 @@
+D:\NNLT3-2\dientichhinhcau\bin\Debug\dientichhinhcau.exe.config
+D:\NNLT3-2\dientichhinhcau\bin\Debug\dientichhinhcau.exe
+D:\NNLT3-2\dientichhinhcau\bin\Debug\dientichhinhcau.pdb
+D:\NNLT3-2\dientichhinhcau\obj\Debug\dientichhinhcau.csprojResolveAssemblyReference.cache
+D:\NNLT3-2\dientichhinhcau\obj\Debug\dientichhinhcau.exe
+D:\NNLT3-2\dientichhinhcau\obj\Debug\dientichhinhcau.pdb
+C:\Users\Admin\Downloads\NNLT3-2\dientichhinhcau\bin\Debug\dientichhinhcau.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\dientichhinhcau\bin\Debug\dientichhinhcau.exe
+C:\Users\Admin\Downloads\NNLT3-2\dientichhinhcau\bin\Debug\dientichhinhcau.pdb
+C:\Users\Admin\Downloads\NNLT3-2\dientichhinhcau\obj\Debug\dientichhinhcau.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\dientichhinhcau\obj\Debug\dientichhinhcau.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\dientichhinhcau\obj\Debug\dientichhinhcau.exe
+C:\Users\Admin\Downloads\NNLT3-2\dientichhinhcau\obj\Debug\dientichhinhcau.pdb

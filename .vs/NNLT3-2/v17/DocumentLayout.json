@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NNLT3-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B66FA3D7-FE1D-4316-8A3D-5E8316A9617D}|bai3array\\bai3array.csproj|d:\\nnlt3-2\\bai3array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66FA3D7-FE1D-4316-8A3D-5E8316A9617D}|bai3array\\bai3array.csproj|solutionrelative:bai3array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077C8862-CCA7-477C-8DF3-D8F2836B348D}|array\\array.csproj|D:\\NNLT3-2\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077C8862-CCA7-477C-8DF3-D8F2836B348D}|array\\array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFD7E30-AFA5-4CB7-AE6C-0CE81BF7EB51}|bai1array\\bai1array.csproj|D:\\NNLT3-2\\bai1array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFD7E30-AFA5-4CB7-AE6C-0CE81BF7EB51}|bai1array\\bai1array.csproj|solutionrelative:bai1array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535AEFAC-6641-4FF2-B56E-1845D7BFC66F}|bai2array\\bai2array.csproj|D:\\NNLT3-2\\bai2array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535AEFAC-6641-4FF2-B56E-1845D7BFC66F}|bai2array\\bai2array.csproj|solutionrelative:bai2array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A324B6C7-00B8-44D6-ABBF-EC54C1E2AB2C}|bcnn\\bcnn.csproj|D:\\NNLT3-2\\bcnn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A324B6C7-00B8-44D6-ABBF-EC54C1E2AB2C}|bcnn\\bcnn.csproj|solutionrelative:bcnn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B452501-308E-4070-BBE0-F0CE4B6FB4B9}|kttendangnhap\\kttendangnhap.csproj|D:\\NNLT3-2\\kttendangnhap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B452501-308E-4070-BBE0-F0CE4B6FB4B9}|kttendangnhap\\kttendangnhap.csproj|solutionrelative:kttendangnhap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9864D09A-6DAD-475E-B7B1-31680AAA88AB}|xuatsotu1denn\\xuatsotu1denn.csproj|D:\\NNLT3-2\\xuatsotu1denn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9864D09A-6DAD-475E-B7B1-31680AAA88AB}|xuatsotu1denn\\xuatsotu1denn.csproj|solutionrelative:xuatsotu1denn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CDE561-66CF-4571-956B-5FC0E1986621}|xuattu1dennbo3,7\\xuattu1dennbo3,7.csproj|D:\\NNLT3-2\\xuattu1dennbo3,7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CDE561-66CF-4571-956B-5FC0E1986621}|xuattu1dennbo3,7\\xuattu1dennbo3,7.csproj|solutionrelative:xuattu1dennbo3,7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10AAAD1-3C92-4059-A469-CFD4BD7DE6E6}|cuuchuongbatki\\cuuchuongbatki.csproj|D:\\NNLT3-2\\cuuchuongbatki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10AAAD1-3C92-4059-A469-CFD4BD7DE6E6}|cuuchuongbatki\\cuuchuongbatki.csproj|solutionrelative:cuuchuongbatki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3892E7-5493-409F-B338-F09C369F4AAA}|cuuchuong7\\cuuchuong7.csproj|D:\\NNLT3-2\\cuuchuong7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3892E7-5493-409F-B338-F09C369F4AAA}|cuuchuong7\\cuuchuong7.csproj|solutionrelative:cuuchuong7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641554FC-FD83-45A0-925B-154D1E5DD417}|cuuchuong5\\cuuchuong5.csproj|D:\\NNLT3-2\\cuuchuong5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641554FC-FD83-45A0-925B-154D1E5DD417}|cuuchuong5\\cuuchuong5.csproj|solutionrelative:cuuchuong5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63F515D-1E47-406D-877B-82E20C4AD0AF}|5 so tu nhien dau tien\\5 so tu nhien dau tien.csproj|D:\\NNLT3-2\\5 so tu nhien dau tien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63F515D-1E47-406D-877B-82E20C4AD0AF}|5 so tu nhien dau tien\\5 so tu nhien dau tien.csproj|solutionrelative:5 so tu nhien dau tien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1E1399-2D77-4F7B-B17F-DF76ABAF0939}|tonglannhap\\tonglannhap.csproj|D:\\NNLT3-2\\tonglannhap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1E1399-2D77-4F7B-B17F-DF76ABAF0939}|tonglannhap\\tonglannhap.csproj|solutionrelative:tonglannhap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F19FC51-2547-4469-9D61-DE990E326022}|ktchanle2so\\ktchanle2so.csproj|D:\\NNLT3-2\\ktchanle2so\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F19FC51-2547-4469-9D61-DE990E326022}|ktchanle2so\\ktchanle2so.csproj|solutionrelative:ktchanle2so\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273C0C9-22A5-49E6-BE07-48C3B33A3D79}|songuyento\\songuyento.csproj|D:\\NNLT3-2\\songuyento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F273C0C9-22A5-49E6-BE07-48C3B33A3D79}|songuyento\\songuyento.csproj|solutionrelative:songuyento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FF24F-652D-4FC3-9D6B-1169E02DE66C}|5songuyenbatki\\5songuyenbatki.csproj|D:\\NNLT3-2\\5songuyenbatki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FF24F-652D-4FC3-9D6B-1169E02DE66C}|5songuyenbatki\\5songuyenbatki.csproj|solutionrelative:5songuyenbatki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BEA8DC-4EC5-44E5-9C10-E090E95EF40D}|dientichhinhcau\\dientichhinhcau.csproj|D:\\NNLT3-2\\dientichhinhcau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BEA8DC-4EC5-44E5-9C10-E090E95EF40D}|dientichhinhcau\\dientichhinhcau.csproj|solutionrelative:dientichhinhcau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\bai2array\\Program.cs",
+              "RelativeDocumentMoniker": "bai2array\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\bai2array\\Program.cs",
+              "RelativeToolTip": "bai2array\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:44:18.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\bcnn\\Program.cs",
+              "RelativeDocumentMoniker": "bcnn\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\bcnn\\Program.cs",
+              "RelativeToolTip": "bcnn\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:19:03.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\cuuchuong7\\Program.cs",
+              "RelativeDocumentMoniker": "cuuchuong7\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\cuuchuong7\\Program.cs",
+              "RelativeToolTip": "cuuchuong7\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:32:47.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\cuuchuongbatki\\Program.cs",
+              "RelativeDocumentMoniker": "cuuchuongbatki\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\cuuchuongbatki\\Program.cs",
+              "RelativeToolTip": "cuuchuongbatki\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:34:51.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\xuattu1dennbo3,7\\Program.cs",
+              "RelativeDocumentMoniker": "xuattu1dennbo3,7\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\xuattu1dennbo3,7\\Program.cs",
+              "RelativeToolTip": "xuattu1dennbo3,7\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:59:46.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\bai3array\\Program.cs",
+              "RelativeDocumentMoniker": "bai3array\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\bai3array\\Program.cs",
+              "RelativeToolTip": "bai3array\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:51:17.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\bai1array\\Program.cs",
+              "RelativeDocumentMoniker": "bai1array\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\bai1array\\Program.cs",
+              "RelativeToolTip": "bai1array\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:38:22.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\array\\Program.cs",
+              "RelativeDocumentMoniker": "array\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\array\\Program.cs",
+              "RelativeToolTip": "array\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:32:44.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\kttendangnhap\\Program.cs",
+              "RelativeDocumentMoniker": "kttendangnhap\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\kttendangnhap\\Program.cs",
+              "RelativeToolTip": "kttendangnhap\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:39:04.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\xuatsotu1denn\\Program.cs",
+              "RelativeDocumentMoniker": "xuatsotu1denn\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\xuatsotu1denn\\Program.cs",
+              "RelativeToolTip": "xuatsotu1denn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:50:58.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\cuuchuong5\\Program.cs",
+              "RelativeDocumentMoniker": "cuuchuong5\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\cuuchuong5\\Program.cs",
+              "RelativeToolTip": "cuuchuong5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:32:43.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\ktchanle2so\\Program.cs",
+              "RelativeDocumentMoniker": "ktchanle2so\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\ktchanle2so\\Program.cs",
+              "RelativeToolTip": "ktchanle2so\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:38:58.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\tonglannhap\\Program.cs",
+              "RelativeDocumentMoniker": "tonglannhap\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\tonglannhap\\Program.cs",
+              "RelativeToolTip": "tonglannhap\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:08:38.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\5 so tu nhien dau tien\\Program.cs",
+              "RelativeDocumentMoniker": "5 so tu nhien dau tien\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\5 so tu nhien dau tien\\Program.cs",
+              "RelativeToolTip": "5 so tu nhien dau tien\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:05:11.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\dientichhinhcau\\Program.cs",
+              "RelativeDocumentMoniker": "dientichhinhcau\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\dientichhinhcau\\Program.cs",
+              "RelativeToolTip": "dientichhinhcau\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:38:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\songuyento\\Program.cs",
+              "RelativeDocumentMoniker": "songuyento\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\songuyento\\Program.cs",
+              "RelativeToolTip": "songuyento\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:39:08.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NNLT3-2\\5songuyenbatki\\Program.cs",
+              "RelativeDocumentMoniker": "5songuyenbatki\\Program.cs",
+              "ToolTip": "D:\\NNLT3-2\\5songuyenbatki\\Program.cs",
+              "RelativeToolTip": "5songuyenbatki\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:05:16.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

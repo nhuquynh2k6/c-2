@@ -1,0 +1,6 @@
+D:\NNLT3-2\xuatsotu1denn\bin\Debug\xuatsotu1denn.exe.config
+D:\NNLT3-2\xuatsotu1denn\bin\Debug\xuatsotu1denn.exe
+D:\NNLT3-2\xuatsotu1denn\bin\Debug\xuatsotu1denn.pdb
+D:\NNLT3-2\xuatsotu1denn\obj\Debug\xuatsotu1denn.csprojResolveAssemblyReference.cache
+D:\NNLT3-2\xuatsotu1denn\obj\Debug\xuatsotu1denn.exe
+D:\NNLT3-2\xuatsotu1denn\obj\Debug\xuatsotu1denn.pdb

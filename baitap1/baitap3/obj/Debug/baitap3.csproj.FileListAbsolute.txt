@@ -1,0 +1,5 @@
+D:\baitap1\baitap3\bin\Debug\baitap3.exe.config
+D:\baitap1\baitap3\bin\Debug\baitap3.exe
+D:\baitap1\baitap3\bin\Debug\baitap3.pdb
+D:\baitap1\baitap3\obj\Debug\baitap3.exe
+D:\baitap1\baitap3\obj\Debug\baitap3.pdb

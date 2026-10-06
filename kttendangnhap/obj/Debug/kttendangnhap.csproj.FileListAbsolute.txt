@@ -1,0 +1,12 @@
+D:\NNLT3-2\kttendangnhap\bin\Debug\kttendangnhap.exe.config
+D:\NNLT3-2\kttendangnhap\bin\Debug\kttendangnhap.exe
+D:\NNLT3-2\kttendangnhap\bin\Debug\kttendangnhap.pdb
+D:\NNLT3-2\kttendangnhap\obj\Debug\kttendangnhap.exe
+D:\NNLT3-2\kttendangnhap\obj\Debug\kttendangnhap.pdb
+C:\Users\Admin\Downloads\NNLT3-2\kttendangnhap\bin\Debug\kttendangnhap.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\kttendangnhap\bin\Debug\kttendangnhap.exe
+C:\Users\Admin\Downloads\NNLT3-2\kttendangnhap\bin\Debug\kttendangnhap.pdb
+C:\Users\Admin\Downloads\NNLT3-2\kttendangnhap\obj\Debug\kttendangnhap.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\kttendangnhap\obj\Debug\kttendangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\kttendangnhap\obj\Debug\kttendangnhap.exe
+C:\Users\Admin\Downloads\NNLT3-2\kttendangnhap\obj\Debug\kttendangnhap.pdb

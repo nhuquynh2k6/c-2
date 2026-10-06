@@ -1,0 +1,6 @@
+D:\baitap1\tinhtien\bin\Debug\tinhtien.exe.config
+D:\baitap1\tinhtien\bin\Debug\tinhtien.exe
+D:\baitap1\tinhtien\bin\Debug\tinhtien.pdb
+D:\baitap1\tinhtien\obj\Debug\tinhtien.csprojResolveAssemblyReference.cache
+D:\baitap1\tinhtien\obj\Debug\tinhtien.exe
+D:\baitap1\tinhtien\obj\Debug\tinhtien.pdb

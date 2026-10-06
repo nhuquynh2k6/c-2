@@ -1,0 +1,7 @@
+D:\NNLT3-2\tonglannhap\bin\Debug\tonglannhap.exe.config
+D:\NNLT3-2\tonglannhap\bin\Debug\tonglannhap.exe
+D:\NNLT3-2\tonglannhap\bin\Debug\tonglannhap.pdb
+D:\NNLT3-2\tonglannhap\obj\Debug\tonglannhap.csproj.AssemblyReference.cache
+D:\NNLT3-2\tonglannhap\obj\Debug\tonglannhap.csproj.CoreCompileInputs.cache
+D:\NNLT3-2\tonglannhap\obj\Debug\tonglannhap.exe
+D:\NNLT3-2\tonglannhap\obj\Debug\tonglannhap.pdb

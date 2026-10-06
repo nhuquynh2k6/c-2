@@ -1,0 +1,6 @@
+D:\baitap1\xaydungbotAI2\bin\Debug\xaydungbotAI2.exe.config
+D:\baitap1\xaydungbotAI2\bin\Debug\xaydungbotAI2.exe
+D:\baitap1\xaydungbotAI2\bin\Debug\xaydungbotAI2.pdb
+D:\baitap1\xaydungbotAI2\obj\Debug\xaydungbotAI2.csprojResolveAssemblyReference.cache
+D:\baitap1\xaydungbotAI2\obj\Debug\xaydungbotAI2.exe
+D:\baitap1\xaydungbotAI2\obj\Debug\xaydungbotAI2.pdb

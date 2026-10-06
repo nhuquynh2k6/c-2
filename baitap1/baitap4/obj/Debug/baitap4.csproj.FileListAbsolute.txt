@@ -1,0 +1,6 @@
+D:\baitap1\baitap4\bin\Debug\baitap4.exe.config
+D:\baitap1\baitap4\bin\Debug\baitap4.exe
+D:\baitap1\baitap4\bin\Debug\baitap4.pdb
+D:\baitap1\baitap4\obj\Debug\baitap4.csprojResolveAssemblyReference.cache
+D:\baitap1\baitap4\obj\Debug\baitap4.exe
+D:\baitap1\baitap4\obj\Debug\baitap4.pdb

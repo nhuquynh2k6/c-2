@@ -1,0 +1,13 @@
+D:\NNLT3-2\tong2chuso\bin\Debug\tong2chuso.exe.config
+D:\NNLT3-2\tong2chuso\bin\Debug\tong2chuso.exe
+D:\NNLT3-2\tong2chuso\bin\Debug\tong2chuso.pdb
+D:\NNLT3-2\tong2chuso\obj\Debug\tong2chuso.csprojResolveAssemblyReference.cache
+D:\NNLT3-2\tong2chuso\obj\Debug\tong2chuso.exe
+D:\NNLT3-2\tong2chuso\obj\Debug\tong2chuso.pdb
+C:\Users\Admin\Downloads\NNLT3-2\tong2chuso\bin\Debug\tong2chuso.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\tong2chuso\bin\Debug\tong2chuso.exe
+C:\Users\Admin\Downloads\NNLT3-2\tong2chuso\bin\Debug\tong2chuso.pdb
+C:\Users\Admin\Downloads\NNLT3-2\tong2chuso\obj\Debug\tong2chuso.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\tong2chuso\obj\Debug\tong2chuso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\tong2chuso\obj\Debug\tong2chuso.exe
+C:\Users\Admin\Downloads\NNLT3-2\tong2chuso\obj\Debug\tong2chuso.pdb

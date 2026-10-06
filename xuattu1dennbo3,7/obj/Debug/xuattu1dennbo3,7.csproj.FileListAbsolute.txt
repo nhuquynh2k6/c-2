@@ -1,0 +1,14 @@
+D:\NNLT3-2\xuattu1dennbo3,7\bin\Debug\xuattu1dennbo3,7.exe.config
+D:\NNLT3-2\xuattu1dennbo3,7\bin\Debug\xuattu1dennbo3,7.exe
+D:\NNLT3-2\xuattu1dennbo3,7\bin\Debug\xuattu1dennbo3,7.pdb
+D:\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.exe
+D:\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.pdb
+C:\Users\Admin\Downloads\NNLT3-2\xuattu1dennbo3,7\bin\Debug\xuattu1dennbo3,7.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\xuattu1dennbo3,7\bin\Debug\xuattu1dennbo3,7.exe
+C:\Users\Admin\Downloads\NNLT3-2\xuattu1dennbo3,7\bin\Debug\xuattu1dennbo3,7.pdb
+C:\Users\Admin\Downloads\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.exe
+C:\Users\Admin\Downloads\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.pdb
+D:\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.csproj.AssemblyReference.cache
+D:\NNLT3-2\xuattu1dennbo3,7\obj\Debug\xuattu1dennbo3,7.csproj.CoreCompileInputs.cache

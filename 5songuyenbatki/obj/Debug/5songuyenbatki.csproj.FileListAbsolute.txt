@@ -1,0 +1,13 @@
+D:\NNLT3-2\5songuyenbatki\bin\Debug\5songuyenbatki.exe.config
+D:\NNLT3-2\5songuyenbatki\obj\Debug\5songuyenbatki.csprojResolveAssemblyReference.cache
+D:\NNLT3-2\5songuyenbatki\bin\Debug\5songuyenbatki.exe
+D:\NNLT3-2\5songuyenbatki\bin\Debug\5songuyenbatki.pdb
+D:\NNLT3-2\5songuyenbatki\obj\Debug\5songuyenbatki.exe
+D:\NNLT3-2\5songuyenbatki\obj\Debug\5songuyenbatki.pdb
+C:\Users\Admin\Downloads\NNLT3-2\5songuyenbatki\bin\Debug\5songuyenbatki.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\5songuyenbatki\bin\Debug\5songuyenbatki.exe
+C:\Users\Admin\Downloads\NNLT3-2\5songuyenbatki\bin\Debug\5songuyenbatki.pdb
+C:\Users\Admin\Downloads\NNLT3-2\5songuyenbatki\obj\Debug\5songuyenbatki.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\5songuyenbatki\obj\Debug\5songuyenbatki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\5songuyenbatki\obj\Debug\5songuyenbatki.exe
+C:\Users\Admin\Downloads\NNLT3-2\5songuyenbatki\obj\Debug\5songuyenbatki.pdb

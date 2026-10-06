@@ -1,0 +1,7 @@
+D:\baitap1\baitap1\doih\obj\Debug\doih.csproj.AssemblyReference.cache
+D:\baitap1\baitap1\doih\obj\Debug\doih.csproj.CoreCompileInputs.cache
+D:\baitap1\baitap1\doih\bin\Debug\doih.exe.config
+D:\baitap1\baitap1\doih\bin\Debug\doih.exe
+D:\baitap1\baitap1\doih\bin\Debug\doih.pdb
+D:\baitap1\baitap1\doih\obj\Debug\doih.exe
+D:\baitap1\baitap1\doih\obj\Debug\doih.pdb

@@ -1,0 +1,7 @@
+D:\NNLT3-2\array\bin\Debug\array.exe.config
+D:\NNLT3-2\array\bin\Debug\array.exe
+D:\NNLT3-2\array\bin\Debug\array.pdb
+D:\NNLT3-2\array\obj\Debug\array.csproj.AssemblyReference.cache
+D:\NNLT3-2\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+D:\NNLT3-2\array\obj\Debug\array.exe
+D:\NNLT3-2\array\obj\Debug\array.pdb

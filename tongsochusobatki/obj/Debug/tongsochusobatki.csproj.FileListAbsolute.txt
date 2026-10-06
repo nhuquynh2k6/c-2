@@ -1,0 +1,12 @@
+D:\NNLT3-2\tongsochusobatki\bin\Debug\tongsochusobatki.exe.config
+D:\NNLT3-2\tongsochusobatki\bin\Debug\tongsochusobatki.exe
+D:\NNLT3-2\tongsochusobatki\bin\Debug\tongsochusobatki.pdb
+D:\NNLT3-2\tongsochusobatki\obj\Debug\tongsochusobatki.exe
+D:\NNLT3-2\tongsochusobatki\obj\Debug\tongsochusobatki.pdb
+C:\Users\Admin\Downloads\NNLT3-2\tongsochusobatki\bin\Debug\tongsochusobatki.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\tongsochusobatki\bin\Debug\tongsochusobatki.exe
+C:\Users\Admin\Downloads\NNLT3-2\tongsochusobatki\bin\Debug\tongsochusobatki.pdb
+C:\Users\Admin\Downloads\NNLT3-2\tongsochusobatki\obj\Debug\tongsochusobatki.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\tongsochusobatki\obj\Debug\tongsochusobatki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\tongsochusobatki\obj\Debug\tongsochusobatki.exe
+C:\Users\Admin\Downloads\NNLT3-2\tongsochusobatki\obj\Debug\tongsochusobatki.pdb

@@ -1,0 +1,13 @@
+D:\NNLT3-2\5 so tu nhien dau tien\bin\Debug\5 so tu nhien dau tien.exe.config
+D:\NNLT3-2\5 so tu nhien dau tien\bin\Debug\5 so tu nhien dau tien.exe
+D:\NNLT3-2\5 so tu nhien dau tien\bin\Debug\5 so tu nhien dau tien.pdb
+D:\NNLT3-2\5 so tu nhien dau tien\obj\Debug\5 so tu nhien dau tien.csprojResolveAssemblyReference.cache
+D:\NNLT3-2\5 so tu nhien dau tien\obj\Debug\5 so tu nhien dau tien.exe
+D:\NNLT3-2\5 so tu nhien dau tien\obj\Debug\5 so tu nhien dau tien.pdb
+C:\Users\Admin\Downloads\NNLT3-2\5 so tu nhien dau tien\bin\Debug\5 so tu nhien dau tien.exe.config
+C:\Users\Admin\Downloads\NNLT3-2\5 so tu nhien dau tien\bin\Debug\5 so tu nhien dau tien.exe
+C:\Users\Admin\Downloads\NNLT3-2\5 so tu nhien dau tien\bin\Debug\5 so tu nhien dau tien.pdb
+C:\Users\Admin\Downloads\NNLT3-2\5 so tu nhien dau tien\obj\Debug\5 so tu nhien dau tien.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\NNLT3-2\5 so tu nhien dau tien\obj\Debug\5 so tu nhien dau tien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NNLT3-2\5 so tu nhien dau tien\obj\Debug\5 so tu nhien dau tien.exe
+C:\Users\Admin\Downloads\NNLT3-2\5 so tu nhien dau tien\obj\Debug\5 so tu nhien dau tien.pdb

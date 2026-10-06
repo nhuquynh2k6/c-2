@@ -1,0 +1,5 @@
+D:\NNLT3-2\ucln\bin\Debug\ucln.exe.config
+D:\NNLT3-2\ucln\bin\Debug\ucln.exe
+D:\NNLT3-2\ucln\bin\Debug\ucln.pdb
+D:\NNLT3-2\ucln\obj\Debug\ucln.exe
+D:\NNLT3-2\ucln\obj\Debug\ucln.pdb

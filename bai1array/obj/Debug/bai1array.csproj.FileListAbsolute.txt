@@ -1,0 +1,7 @@
+D:\NNLT3-2\bai1array\bin\Debug\bai1array.exe.config
+D:\NNLT3-2\bai1array\bin\Debug\bai1array.exe
+D:\NNLT3-2\bai1array\bin\Debug\bai1array.pdb
+D:\NNLT3-2\bai1array\obj\Debug\bai1array.csproj.AssemblyReference.cache
+D:\NNLT3-2\bai1array\obj\Debug\bai1array.csproj.CoreCompileInputs.cache
+D:\NNLT3-2\bai1array\obj\Debug\bai1array.exe
+D:\NNLT3-2\bai1array\obj\Debug\bai1array.pdb
